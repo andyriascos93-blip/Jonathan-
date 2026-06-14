@@ -37,7 +37,7 @@ footer{padding:30px;text-align:center;background:#111}
 <a href="#agenda">Agenda</a>
 </nav>
 </header>
-
+<img src="assets/foto-principal.webp" alt="Jonathan Riascos">
 <section class="hero">
 <div class="hero-text">
 <p class="gold">PSICOLOGÍA • BIENESTAR • CRECIMIENTO PERSONAL</p>
